@@ -3,5 +3,11 @@ Clone/download repository
 In main folder in terminal:
 npm install
 
-After installing dependencies, to run project:
+Once that is done:
+cd client
+
+Then again:
+npm install
+
+After installing dependencies return to the top project folder, to run project:
 npm run dev
