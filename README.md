@@ -14,8 +14,7 @@ npm run dev
 
 
 
-
-Some Stuff I didnt't get to:
+Some Stuff I didn't get to:
 
 I wanted to make the result of the $everything query more readable, but wasn't able to get it done in time to be much
 more than the JSON converted to a string and formatted to be readable.
