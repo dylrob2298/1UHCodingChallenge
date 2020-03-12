@@ -9,8 +9,6 @@ const allPatients = require('./routes/allPatients');
 
 const app = express();
 
-// mongoose.Promise = global.Promise;
-// mongoose.connect(process.env.MONGODB_URI || `mongodb://localhost:27017/node-react-starter`);
 
 app.use(bodyParser.json());
 app.use(cors())
